@@ -34,6 +34,12 @@ Information like name and scores are displayed in the app regarding all the stud
 * Android app stories
 ![demo (8)](https://user-images.githubusercontent.com/43697446/93794203-6d09cd00-fc55-11ea-8550-b53663a25e64.jpg)
 
+### Screenshots
+
+Home Screen             |        Product List Screen
+:-------------------------:|:-------------------------:| 
+![](https://user-images.githubusercontent.com/44135362/121815388-daea9e80-cc93-11eb-9a94-871ddd62d62b.jpeg) | ![](https://user-images.githubusercontent.com/44135362/121815394-e4740680-cc93-11eb-9cf8-e5b4a6cd5c66.jpeg) 
+
 ### [Download APK](https://drive.google.com/file/d/16B_MkGY5rIwzS06Pna0AxA5sqxhKWdth/view?usp=drivesdk)
 
 
